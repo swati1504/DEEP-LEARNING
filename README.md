@@ -5,6 +5,6 @@
 ### The dataset of the CLASSIFICATION OF DOGS VS CATS has been retrieved from Kaggle, I have placed a link below to it
 ## https://www.kaggle.com/competitions/dogs-vs-cats/data
 
-## The projects make use of keras, tensorflow, pytorch, building DNNs, CNNs and RNNs and all the processes that are involved in building the model thereby depicting a comprehensive understanding of all the required topics.
+## The projects make use of keras, tensorflow, pytorch, building DNNs, CNNs and all the processes that are involved in building the deep learning model thereby depicting a comprehensive understanding of all the required topics.
 
 ### All of the projects have been done on Jupyter notebook.
